@@ -1,0 +1,6 @@
+framework module Pods_tipster {
+  umbrella header "Pods-tipster-umbrella.h"
+
+  export *
+  module * { export * }
+}

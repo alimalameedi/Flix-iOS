@@ -1,0 +1,6 @@
+framework module Pods_tipsterTests {
+  umbrella header "Pods-tipsterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
