@@ -23,4 +23,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-This project served as a platform to learn Xcode and Swift/Objective C on a more fundamental level, because that's not something I've had much exposure to. It was also interesting to be exposed to and work with storyboards and various user interface elements. Flixter also gave me a stronger understanding of how different components of an iOS application come together and I felt that I was able to get a solid foundation in the implementation of table views, API utilization, and auto layout configuration.
+This project served as a platform to learn Xcode and Swift/Objective C on a more fundamental level, because that's not something I've had much exposure to. It was also interesting to be exposed to and work with storyboards and various user interface elements. Flix also gave me a stronger understanding of how different components of an iOS application come together and I felt that I was able to get a solid foundation in the implementation of table views, API utilization, and auto layout configuration.
