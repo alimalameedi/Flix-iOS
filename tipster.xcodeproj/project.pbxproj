@@ -122,7 +122,6 @@
 				873E1F685944235DCF8B944B /* Pods-tipsterTests.debug.xcconfig */,
 				AA26A9A93FEA6466EBCBFF7A /* Pods-tipsterTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -615,6 +614,7 @@
 				DEVELOPMENT_TEAM = NM6UCB34C9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = tipster/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Flixter;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -647,6 +647,7 @@
 				DEVELOPMENT_TEAM = NM6UCB34C9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = tipster/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Flixter;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
